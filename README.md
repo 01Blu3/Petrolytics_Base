@@ -8,5 +8,5 @@ Data Visualization with Folium and ChartJS
 * requests
 ### To install dependencies
 ```python
-pip install
+pip install *library*
 ```
